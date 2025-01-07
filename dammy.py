@@ -1,36 +1,31 @@
-
 greek_dict = {
-    "hello": "geia sas",
-    "goodbye": "antio",
-    "please": "parakalo",
-    "thank you": "efharisto",
-    "yes": "nai",
-    "no": "ochi",
-    "how are you?": "pos eisai?",
-    "fine": "kala",
-    "home": "spiti",
-    "friend": "filos",
-    "king": "vasilias",
-    "eat": "troo",
-    "book": "vivlio",
-    "here": "edo",
-    "there": "ekei",
-    "name": "onoma",
-    "water": "nero",
-    "school": "scholeio",
-    "love": "agapi",
-    "day": "imera"
+    "geia sas": "hello",
+    "antio": "goodbye",
+    "parakalo": "please",
+    "efharisto": "thank you",
+    "nai": "yes",
+    "ochi": "no",
+    "pos eisai?": "how are you?",
+    "kala": "fine",
+    "spiti": "home",
+    "filos": "friend",
+    "vasilias": "king",
+    "troo": "eat",
+    "vivlio": "book",
+    "edo": "here",
+    "ekei": "there",
+    "onoma": "name",
+    "nero": "water",
+    "scholeio": "school",
+    "agapi": "love",
+    "imera": "day"
 }
 
-def search_english_to_greek(word):
+def search_greek(word):
     translation = greek_dict.get(word.lower())
-    return translation if translation else "Word not found in the Greek dictionary."
+    return translation if translation else "Word not found in the Greek-to-English dictionary."
 
+search_term = input("Enter a Greek word (in English letters) to translate to English: ")
 
-print("Greek Dictionary is now available.")
-search_term = input("Enter an English word to translate to Greek: ")
-
-
-result = search_english_to_greek(search_term)
+result = search_greek(search_term)
 print(f"Translation: {result}")
-
