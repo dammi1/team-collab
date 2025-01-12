@@ -1,4 +1,4 @@
-italian_dict = {
+italian_dictionary = {
     'house' : 'casa' ,
     'car' : 'auto' ,
     'book' : 'libro' ,
