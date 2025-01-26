@@ -1,6 +1,6 @@
 # Multilingual Dictionary
 
-This is a simple multilingual dictionary with five languages: English, Spanish, French, German, and Italian. It contains 20 words in each language, with their meanings. You can search for a word and find its meaning and the language it's in.
+This is a simple multilingual dictionary with five languages: Greek, Spanish, French, German, and Italian. It contains 20 words in each language, with their meanings. You can search for a word and find its meaning and the language it's in.
 
 ## How to Use
 
