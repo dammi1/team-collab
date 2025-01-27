@@ -1,3 +1,4 @@
+
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
@@ -221,5 +222,7 @@ class LanguageDictionaryApp(App):
 
 if __name__ == '__main__':
     Window.size = (600, 800)
-    Window.clearcolor = (0.1, 0.1, 0.1, 1)  # Dark background
-    LanguageDictionaryApp().run()
+    Window.clearcolor = (0.1, 0.1, 0.1, 1)  
+    LanguageDictionaryApp().run
+
+
