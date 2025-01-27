@@ -1,6 +1,6 @@
 # Multilingual Dictionary
 
-This is a simple multilingual dictionary with five languages: Greek, Spanish, French, German, and Italian. It contains 20 words in each language, with their meanings. You can search for a word and find its meaning and the language it's in.
+This is a simple multilingual dictionary with five languages: Greek, Spanish, French, German, and Italian. It contains 20 words in each language, with their meanings. You can search for a word and find its meaning in the language.
 
 ## How to Use
 
@@ -12,7 +12,8 @@ This is a simple multilingual dictionary with five languages: Greek, Spanish, Fr
 
 ```bash
 $ python dictionary.py
-Enter word to search: apple
-Word: Apple
-Language: English
-Meaning: a round fruit with red or green skin and a whitish interior.
+choose the listed dictionaries: greek
+enter a word: river
+translatiion: potami
+
+
