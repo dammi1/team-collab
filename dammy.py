@@ -21,3 +21,26 @@ greek_dict = {
     'family': 'oikogeneia',
     'dream': 'oneiro'
 }
+# dammy =======
+italian_dict = {
+    'house': 'casa',
+    'car': 'auto',
+    'book': 'libro',
+    'water': 'acqua',
+    'food': 'cibo',
+    'friend': 'amico',
+    'love': 'amore',
+    'sun': 'sole',
+    'moon': 'luna',
+    'tree': 'albero',
+    'sky': 'cielo',
+    'flower': 'fiore',
+    'mountain': 'montagna',
+    'river': 'fiume',
+    'city': 'citta',
+    'dog': 'cane',
+    'cat': 'gatto',
+    'music': 'musica',
+    'family': 'famiglia',
+    'dream': 'sogno'
+}
