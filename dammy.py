@@ -21,4 +21,26 @@ greek_dict = {
     'family': 'oikogeneia',
     'dream': 'oneiro'
 }
+french_dict = {
+    'house': 'maison',
+    'car': 'voiture',
+    'book': 'livre',
+    'water': 'eau',
+    'food': 'nourriture',
+    'friend': 'ami',
+    'love': 'amour',
+    'sun': 'soleil',
+    'moon': 'lune',
+    'tree': 'arbre',
+    'sky': 'ciel',
+    'flower': 'fleur',
+    'mountain': 'montagne',
+    'river': 'rivière',
+    'city': 'ville',
+    'dog': 'chien',
+    'cat': 'chat',
+    'music': 'musique',
+    'family': 'famille',
+    'dream': 'rêve'
+}
 
